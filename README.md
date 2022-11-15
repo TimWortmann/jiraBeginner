@@ -1,1 +1,1 @@
-# jiraBeginner
+# Jira - Beginner Guideline
