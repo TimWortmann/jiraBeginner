@@ -13,11 +13,11 @@
   - [Board](#27-board)
   - [Toolchain](#28-toolchain)
   - [Apps](#29-apps)
-- [Backlog](#1-project)
-- [Ticket](#1-project)
-- [SCRUM Board](#1-project)
-- [Timetracking Addon](#1-project)
-- [Others](#1-project)
+- [Backlog](#3-backlog)
+- [Ticket](#4-ticket)
+- [SCRUM Board](#5-scrum-board)
+- [Timetracking Addon](#6-timetracking-addon)
+- [Others](#7-others)
 
 ## 1. Create a Project
 ![Jira1](https://user-images.githubusercontent.com/86354671/202115422-79784e38-9e37-497b-a0b3-8bbbb500f32d.jpg)
