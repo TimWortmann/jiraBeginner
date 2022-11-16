@@ -14,13 +14,12 @@
   - [Toolchain](#28-toolchain)
   - [Apps](#29-apps)
 - [Backlog](#1-project)
-- [SCRUM Board](#1-project)
 - [Ticket](#1-project)
+- [SCRUM Board](#1-project)
 - [Timetracking Addon](#1-project)
 - [Others](#1-project)
 
 ## 1. Create a Project
-
 ![Jira1](https://user-images.githubusercontent.com/86354671/202115422-79784e38-9e37-497b-a0b3-8bbbb500f32d.jpg)
 ![Jira2](https://user-images.githubusercontent.com/86354671/202115424-1e915c86-2b3c-469f-adfc-c61eeb1590c9.jpg)
 ![Jira3](https://user-images.githubusercontent.com/86354671/202115429-51736b0c-6c23-4985-a47b-56f547fa822d.jpg)
@@ -31,7 +30,6 @@
 
 
 ## 2. Settings
-
 ### 2.1 Details
 ![JiraSettingsDetails](https://user-images.githubusercontent.com/86354671/202116047-822810e5-83d0-4368-988d-d6d4584cdda1.jpg)
 
@@ -69,3 +67,45 @@
 ![JiraSettingsApps4](https://user-images.githubusercontent.com/86354671/202117310-e4ace116-5631-4b94-ae2a-ad5a5213f151.jpg)
 ![JiraSettingsApps5](https://user-images.githubusercontent.com/86354671/202117319-9a906569-3694-4923-89f8-ef657e817cca.jpg)
 
+
+## 3. Backlog
+![JiraBacklog1](https://user-images.githubusercontent.com/86354671/202122119-e52bb493-f02c-44bd-abd0-b53d54e5561e.jpg)
+![JiraBacklog2](https://user-images.githubusercontent.com/86354671/202122121-d5b3fedb-6509-46d7-a584-d1559e780514.jpg)
+![JiraBacklog3](https://user-images.githubusercontent.com/86354671/202122123-1fe43751-60e3-4325-830d-46209429e1ae.jpg)
+![JiraBacklog4](https://user-images.githubusercontent.com/86354671/202122126-7858d76f-28fa-4c5d-bb28-e6de76963bc8.jpg)
+![JiraBacklog5](https://user-images.githubusercontent.com/86354671/202122099-498311d1-c75c-475d-a8e7-9f81e18fcce1.jpg)
+![JiraBacklog6](https://user-images.githubusercontent.com/86354671/202122109-ba2e67cc-0dc3-4773-b188-95b44880516d.jpg)
+![JiraBacklog7](https://user-images.githubusercontent.com/86354671/202122115-c2534a64-fbc1-46e0-81fc-58d031077b14.jpg)
+
+
+## 4. Ticket
+![JiraCreateEpic1](https://user-images.githubusercontent.com/86354671/202123925-1b82cd75-33e8-462a-ac08-0dec047e3043.jpg)
+![JiraTicket1](https://user-images.githubusercontent.com/86354671/202122522-06d7c475-de20-4a5c-9340-d3b288e53dd9.jpg)
+![JiraTicket2](https://user-images.githubusercontent.com/86354671/202122526-771b8ac9-ef6a-4211-86cc-883953fc980e.jpg)
+
+
+## 5. SCRUM Board
+![JiraBoard1](https://user-images.githubusercontent.com/86354671/202123009-af1604f0-120f-4898-9c07-24cbf6cfd1b0.jpg)
+![JiraBoard2](https://user-images.githubusercontent.com/86354671/202123011-901b66ac-cb90-46f6-a3c0-5f40aa64c75b.jpg)
+![JiraBoard3](https://user-images.githubusercontent.com/86354671/202123014-00feffae-806c-4ccd-8823-f9837c5b2cce.jpg)
+![JiraBoard4](https://user-images.githubusercontent.com/86354671/202123074-ef13b050-be8a-401f-a9c6-5c44d3f86187.jpg)
+![JiraBoard5](https://user-images.githubusercontent.com/86354671/202123004-d3219f8a-d717-4983-a86d-98a902ddb320.jpg)
+
+
+## 6. Timetracking Addon
+![JiraTimesheet0](https://user-images.githubusercontent.com/86354671/202123557-ad77c15a-8029-41ba-b69a-7d1f8813feca.jpg)
+![JiraTimesheet1](https://user-images.githubusercontent.com/86354671/202123559-136ba2df-f391-4110-866a-a6d96ac7daca.jpg)
+![JiraTimesheet2](https://user-images.githubusercontent.com/86354671/202123560-ccd4ef7b-0df5-4bec-add5-49add09cd664.jpg)
+![JiraTimesheet3](https://user-images.githubusercontent.com/86354671/202123539-477fd997-44df-46da-b60f-d4eea266e76b.jpg)
+![JiraTimesheet4](https://user-images.githubusercontent.com/86354671/202123544-93941001-0bda-44d2-a5d8-774c03107159.jpg)
+![JiraTimesheet5](https://user-images.githubusercontent.com/86354671/202123548-faa6ab89-afb1-492d-b2a8-064f3d9475b3.jpg)
+![JiraTimesheet6](https://user-images.githubusercontent.com/86354671/202123552-27ace893-fca6-40f6-b0d7-9a3733ee3140.jpg)
+
+
+## 7. Others
+![JiraAddPeople1](https://user-images.githubusercontent.com/86354671/202123801-ebbf72a6-d004-4db3-af11-dba12d52c115.jpg)
+![JiraQuickstart1](https://user-images.githubusercontent.com/86354671/202123913-f0f1f4c8-7d2b-4d1a-b7f9-f3d76915550a.jpg)
+![JiraRoadmap1](https://user-images.githubusercontent.com/86354671/202123920-28d6ef05-c682-4780-b379-542b55104606.jpg)
+![JiraReports1](https://user-images.githubusercontent.com/86354671/202123915-6905c2f8-1af1-4b11-acbb-32c69ecebc36.jpg)
+![JiraIssues](https://user-images.githubusercontent.com/86354671/202123927-7a0015b2-580c-429e-a5f4-4cfb7d78069f.jpg)
+![JiraCode1](https://user-images.githubusercontent.com/86354671/202123922-2be85a72-8c79-4c53-9f36-bd1485f36d5d.jpg)
