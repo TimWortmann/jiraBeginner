@@ -39,7 +39,7 @@ The project type will be a team-managed project, because it represents the work 
 On the following site you can choose the name and the key of the created project. In addition to that you can check if some repositories should be connected with this project.
 ![Jira5](https://user-images.githubusercontent.com/86354671/202115434-84817b6a-a106-496d-8def-762e84962a8d.jpg)
 
-Here you can connect new or already created repositories to the jira project. The standard for that is bitbucket, because its a atlassian product, too. In addition to that you can also connect repositories of github or gitlab. 
+Here you can connect new or already created repositories to the jira project. The standard for that is bitbucket, because its a atlassian product, too. In addition to that you can also connect repositories of github or gitlab. If you press connect the project will be finally created.  
 ![Jira6](https://user-images.githubusercontent.com/86354671/202115420-74f4352d-9904-4458-aa15-d1adaace8ad1.jpg)
 
 For extern repositories a free jira addon is needed. 
@@ -47,23 +47,41 @@ For extern repositories a free jira addon is needed.
 
 
 ## 2. Settings
+There are a lot of opportunities to individualize your project with the settings according to the needs of your team. In the following there is a explanation of the most used and important settings for your project. 
+
 ### 2.1 Details
+In this view you can edit the base informations of your project and determine your project lead.
 ![JiraSettingsDetails](https://user-images.githubusercontent.com/86354671/202116047-822810e5-83d0-4368-988d-d6d4584cdda1.jpg)
 
 ### 2.2 Access
+If there are people on your team rolemanagement is very important. BEcause of this there is a rolemanagement tool where roles can be created, edited and assigned to team members. 
 ![JiraSettingsAccess](https://user-images.githubusercontent.com/86354671/202116069-f8446083-7d76-4316-9487-93012a5692a4.jpg)
 
 ### 2.3 Notifications
-![JiraSettingsNotifications](https://user-images.githubusercontent.com/86354671/202116629-f8a4ae27-6c6d-437e-9f8b-699bbb06af91.jpg)
+Here you can edit which notifications should be send to which e-mail adress.
+![JiraSettingsNotifications](https://user-images.githubusercontent.com/86354671/202388342-2aaca75e-b27a-4afd-9521-8862172a144a.jpg)
+
 
 ### 2.4 Automation
+The automation is seperated in three segments to control each automation process precisely.
+
+The rules determine the scope of the automations.
 ![JiraSettingsAutomation1](https://user-images.githubusercontent.com/86354671/202116690-4bd61f4f-cd14-4aa1-8ede-199100ed23d6.jpg)
+
+In the audit log tab the status of actived automations can be checked. There are a view statuses the verify the state of the processes.
 ![JiraSettingsAutomation2](https://user-images.githubusercontent.com/86354671/202116693-5735e28e-d0fe-4509-9c8a-88d4702d4ea2.jpg)
+
+In the libary are all activated automations listed. Additional to that there are a view suggestions for useful processes, but of course individual automations can be created with the create-rule-button, too.   
 ![JiraSettingsAutomation3](https://user-images.githubusercontent.com/86354671/202116695-7bf12d63-bc59-4c56-af0c-2280c29c2e59.jpg)
+
+Each created rule needs one or more trigger. A trigger is condition which have to be fullfilled to start the automation process. 
 ![JiraSettingsAutomation4](https://user-images.githubusercontent.com/86354671/202116697-a6ef4edb-03ee-4106-baf2-81b8a88ae89a.jpg)
+
+Now other components can be added to the rule. More conditions can be added to determine if a action should be called or not. 
 ![JiraSettingsAutomation5](https://user-images.githubusercontent.com/86354671/202116687-ae02bfc7-d5a0-4de1-9d5e-da1abab0e707.jpg)
 
 ### 2.5 Issue Types
+
 ![JiraSettingsIssueTypes3](https://user-images.githubusercontent.com/86354671/202117031-932d9d8a-0db7-4cb2-a466-4ba1b3f70d49.jpg)
 ![JiraSettingsIssueTypes1](https://user-images.githubusercontent.com/86354671/202117038-5512ef33-5f9c-468a-9e7a-62f466aa97da.jpg)
 ![JiraSettingsIssueTypes2](https://user-images.githubusercontent.com/86354671/202117026-9d7570b2-8ebe-4548-ad95-bb33e71d8261.jpg)
