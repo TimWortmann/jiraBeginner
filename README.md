@@ -96,18 +96,30 @@ In the workflow view issue statuses and the transitions between can be addited. 
 ![JiraSettingsIssueTypes4](https://user-images.githubusercontent.com/86354671/202117035-c66be767-3e84-4d9a-a1d7-6b4d6fa8d7bc.jpg)
 
 ### 2.6 Features
+In features you can determine which sections should be shown in your project view. Just activate the features that you want to use. In this example we activate reports and the issue navigator to explain them later.   
 ![JiraSettingsFeatures](https://user-images.githubusercontent.com/86354671/202117140-12ee0480-183e-43a7-baf7-9ad7cff5f753.jpg)
 
 ### 2.7 Board
+In the bord settings you can eddit nearly every aspect of the board. Because of the big scope of this settings this topic will only be touched on briefly. In the following image you can se how columns and statuses can be assigned to each other.
 ![JiraSettingsBoard1](https://user-images.githubusercontent.com/86354671/202117238-787bf484-fe45-4a40-b272-63ce7f572b3d.jpg)
 
 ### 2.8 Toolchain
+Because of the missing relevance for our current software project the toolchain section wont be discussed. 
 
 ### 2.9 Apps
+Apps can be a great way to add missing functionalities to your jira project. 
 ![JiraSettingsApps1](https://user-images.githubusercontent.com/86354671/202117325-e4664bc3-ece4-470f-a858-722d76733532.jpg)
+
+In this example we will add a timesheet addon to analyse the worked times on the project. 
 ![JiraSettingsApps2](https://user-images.githubusercontent.com/86354671/202117327-ac845414-467d-473a-b4c2-1778a7ed594a.jpg)
+
+Before you add any addon to your project you should check what the pricing for it is. Our timetracking addon is free a can be added without worries.
 ![JiraSettingsApps3](https://user-images.githubusercontent.com/86354671/202117329-97c7001c-0f20-4f99-b8b0-873de4e78140.jpg)
+
+Bevor you add the addon you have to choose in which jira instance you want to use it.
 ![JiraSettingsApps4](https://user-images.githubusercontent.com/86354671/202117310-e4ace116-5631-4b94-ae2a-ad5a5213f151.jpg)
+
+After all here are all informations againt in one window before you finally add the addon. 
 ![JiraSettingsApps5](https://user-images.githubusercontent.com/86354671/202117319-9a906569-3694-4923-89f8-ef657e817cca.jpg)
 
 
