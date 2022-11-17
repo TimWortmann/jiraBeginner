@@ -2,6 +2,7 @@
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
+- [Introduction](#0-introduction)
 - [Create a Project](#1-create-a-project)
 - [Settings](#2-settings)
   - [Details](#21-details)
@@ -19,13 +20,29 @@
 - [Timetracking Addon](#6-timetracking-addon)
 - [Others](#7-others)
 
+
+## 0. Introduction
+In the following i will introduce the project planing tool jira. The structure is very similar to the youtrack beginners guide so you compare both tools better.  
+
+
 ## 1. Create a Project
+To create a project click on "Projects" and then on "Creat project"
 ![Jira1](https://user-images.githubusercontent.com/86354671/202115422-79784e38-9e37-497b-a0b3-8bbbb500f32d.jpg)
+
+We will use the scrum template for our example project to explain how sprints are working in jira.
 ![Jira2](https://user-images.githubusercontent.com/86354671/202115424-1e915c86-2b3c-469f-adfc-c61eeb1590c9.jpg)
 ![Jira3](https://user-images.githubusercontent.com/86354671/202115429-51736b0c-6c23-4985-a47b-56f547fa822d.jpg)
+
+The project type will be a team-managed project, because it represents the work in small teams.
 ![Jira4](https://user-images.githubusercontent.com/86354671/202115432-e47802dc-a518-4cbf-9927-a6fc58dbfaab.jpg)
+
+On the following site you can choose the name and the key of the created project. In addition to that you can check if some repositories should be connected with this project.
 ![Jira5](https://user-images.githubusercontent.com/86354671/202115434-84817b6a-a106-496d-8def-762e84962a8d.jpg)
+
+Here you can connect new or already created repositories to the jira project. The standard for that is bitbucket, because its a atlassian product, too. In addition to that you can also connect repositories of github or gitlab. 
 ![Jira6](https://user-images.githubusercontent.com/86354671/202115420-74f4352d-9904-4458-aa15-d1adaace8ad1.jpg)
+
+For extern repositories a free jira addon is needed. 
 ![Jira6 1](https://user-images.githubusercontent.com/86354671/202115411-b31aed17-1092-43a3-a9ae-b878ead065f7.jpg)
 
 
