@@ -81,10 +81,18 @@ Now other components can be added to the rule. More conditions can be added to d
 ![JiraSettingsAutomation5](https://user-images.githubusercontent.com/86354671/202116687-ae02bfc7-d5a0-4de1-9d5e-da1abab0e707.jpg)
 
 ### 2.5 Issue Types
+In the settings to issue types issues can be created and its properties can be edited. 
 
+To create a issue type there is a name and a icon needed. A discription is optional.
 ![JiraSettingsIssueTypes3](https://user-images.githubusercontent.com/86354671/202117031-932d9d8a-0db7-4cb2-a466-4ba1b3f70d49.jpg)
+
+In the following we will use the subtask issue type to show the different possibilites to edit a issue type.
 ![JiraSettingsIssueTypes1](https://user-images.githubusercontent.com/86354671/202117038-5512ef33-5f9c-468a-9e7a-62f466aa97da.jpg)
+
+You add and remove all sorts of context fields to your ticket templates. In this example time tracking is added to the subtask type to show the functunality of a later discusses addon. You can also edit the workflow of a issue type.
 ![JiraSettingsIssueTypes2](https://user-images.githubusercontent.com/86354671/202117026-9d7570b2-8ebe-4548-ad95-bb33e71d8261.jpg)
+
+In the workflow view issue statuses and the transitions between can be addited. To save all changes press the update-workflow-button. 
 ![JiraSettingsIssueTypes4](https://user-images.githubusercontent.com/86354671/202117035-c66be767-3e84-4d9a-a1d7-6b4d6fa8d7bc.jpg)
 
 ### 2.6 Features
