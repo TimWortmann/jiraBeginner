@@ -187,19 +187,47 @@ Before you can complete the sprint you have to decide whether the remaining open
 
 
 ## 6. Timetracking Addon
+To use the added time tracking addon we need to add the time tracking field to the tickets. In this field you can add your working times after you are done. 
 ![JiraTimesheet0](https://user-images.githubusercontent.com/86354671/202123557-ad77c15a-8029-41ba-b69a-7d1f8813feca.jpg)
+
+There is a timesheet overview. It analyzes the data and calculates some ready-made statistics from it
 ![JiraTimesheet2](https://user-images.githubusercontent.com/86354671/202123560-ccd4ef7b-0df5-4bec-add5-49add09cd664.jpg)
+
+But the reason why the addon was added wasn`t the overview. To use the second feature of the addon you have to click on apps and then on timesheet. 
 ![JiraTimesheet1](https://user-images.githubusercontent.com/86354671/202123559-136ba2df-f391-4110-866a-a6d96ac7daca.jpg)
+
+Now you can see the tool to calculate specific working times and generate matching diagrams. There are a view filters to individualize the results.
 ![JiraTimesheet3](https://user-images.githubusercontent.com/86354671/202123539-477fd997-44df-46da-b60f-d4eea266e76b.jpg)
+
+If the basic possiblities aren`t enough you can use the JQL language to write the selection of your data manually. In addition to that you can save and load these code segments.
 ![JiraTimesheet4](https://user-images.githubusercontent.com/86354671/202123544-93941001-0bda-44d2-a5d8-774c03107159.jpg)
+
+To select a matching diagram you have to press to the three dashes and got to settings.
 ![JiraTimesheet5](https://user-images.githubusercontent.com/86354671/202123548-faa6ab89-afb1-492d-b2a8-064f3d9475b3.jpg)
 ![JiraTimesheet6](https://user-images.githubusercontent.com/86354671/202123552-27ace893-fca6-40f6-b0d7-9a3733ee3140.jpg)
 
 
 ## 7. Others
+### 7.1 Adding People 
+Add people by clicking on the adding button of of the backlog or scrum board. Then you have to type in the email adress and select a role for the new member. The person should get a invitation per mail.
 ![JiraAddPeople1](https://user-images.githubusercontent.com/86354671/202123801-ebbf72a6-d004-4db3-af11-dba12d52c115.jpg)
+
+### 7.2 Quickstart Tool
+The quickstart tool is a useful assistant for new jira users to understand the creation process of a new project. Just follow the instructions if you need its help. 
 ![JiraQuickstart1](https://user-images.githubusercontent.com/86354671/202123913-f0f1f4c8-7d2b-4d1a-b7f9-f3d76915550a.jpg)
+
+### 7.3 Roadmap
+The roadmap provides a overview over the dates of sprints or tickets. 
 ![JiraRoadmap1](https://user-images.githubusercontent.com/86354671/202123920-28d6ef05-c682-4780-b379-542b55104606.jpg)
+
+### 7.4 Overview
+With the overview tab you can choose between multiple different report types. 
 ![JiraReports1](https://user-images.githubusercontent.com/86354671/202123915-6905c2f8-1af1-4b11-acbb-32c69ecebc36.jpg)
+
+### 7.5 Issues
+The issues tab is especially useful if you want to search for a specific ticket or tickets that are already done.
 ![JiraIssues](https://user-images.githubusercontent.com/86354671/202123927-7a0015b2-580c-429e-a5f4-4cfb7d78069f.jpg)
+
+### 7.6 Code
+Into the code tab you can see your linked repositories. It is very helpful when you want to have a fast switch between jira project and your git commits.
 ![JiraCode1](https://user-images.githubusercontent.com/86354671/202123922-2be85a72-8c79-4c53-9f36-bd1485f36d5d.jpg)
