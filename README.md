@@ -19,6 +19,12 @@
 - [SCRUM Board](#5-scrum-board)
 - [Timetracking Addon](#6-timetracking-addon)
 - [Others](#7-others)
+  - [Adding People](#71-adding-people)
+  - [Quickstart Tool](#72-quickstart-tool)
+  - [Roadmap](#73-roadmap)
+  - [Overview](#74-overview)
+  - [Issues](#75-issues)
+  - [Code](#76-code)
 
 
 ## 0. Introduction
