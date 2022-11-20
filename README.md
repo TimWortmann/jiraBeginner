@@ -158,10 +158,10 @@ Under the summary of the ticket there are three main options of the tickets.
 1. You can attach images that are relevant to the ticket.
 2. You can add child issues to represent subtasks of your main ticket.
 3. You can link other issues that are in some way connected to your ticket. The different relationships are:
-  - Blocks a ticket or is blocked
-  - Clones a ticket or is cloned
-  - Duplicates a ticket or is duplicated
-  - Relates to a ticket (in general)
+    - Blocks a ticket or is blocked
+    - Clones a ticket or is cloned
+    - Duplicates a ticket or is duplicated
+    - Relates to a ticket (in general)
 
 In additon to that details can be edited to. In this example we can assign a ticket to a team member, add labels or give a story point estimation (expense estimation). Other details that can be activated in the settings (like time tracking) can also be edited here.
 ![JiraTicket2](https://user-images.githubusercontent.com/86354671/202122526-771b8ac9-ef6a-4211-86cc-883953fc980e.jpg)
