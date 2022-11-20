@@ -124,18 +124,46 @@ After all here are all informations againt in one window before you finally add 
 
 
 ## 3. Backlog
+The jira backlog is the place for all open tickets. Here you can see the tickets in the current sprint and all remaining tickets in the backlog. 
 ![JiraBacklog1](https://user-images.githubusercontent.com/86354671/202122119-e52bb493-f02c-44bd-abd0-b53d54e5561e.jpg)
+
+You can create tickets beside the create-button directly in the backlog or current sprint. If there is no sprint there yet you can create a new one. 
 ![JiraBacklog2](https://user-images.githubusercontent.com/86354671/202122121-d5b3fedb-6509-46d7-a584-d1559e780514.jpg)
+
+If you want to add a ticket of the backlog to the current sprint you can just drag and drop it into the sprint column.
 ![JiraBacklog3](https://user-images.githubusercontent.com/86354671/202122123-1fe43751-60e3-4325-830d-46209429e1ae.jpg)
 ![JiraBacklog4](https://user-images.githubusercontent.com/86354671/202122126-7858d76f-28fa-4c5d-bb28-e6de76963bc8.jpg)
+
+To individualize your sprint you can add dates and a run-time to it manually. 
 ![JiraBacklog5](https://user-images.githubusercontent.com/86354671/202122099-498311d1-c75c-475d-a8e7-9f81e18fcce1.jpg)
+
+The dates will then be shown after the name. To start the sprint the start-sprint-button have to be pressed.
 ![JiraBacklog6](https://user-images.githubusercontent.com/86354671/202122109-ba2e67cc-0dc3-4773-b188-95b44880516d.jpg)
+
+After the button-click you can edit the informations like date or name of the sprint again. Press start and the sprint is active. 
 ![JiraBacklog7](https://user-images.githubusercontent.com/86354671/202122115-c2534a64-fbc1-46e0-81fc-58d031077b14.jpg)
 
 
 ## 4. Ticket
+Tickets are the main feature of jira. Like already seen in the backlog they represend all types of tasks.
+
+To create a ticket/issue you can use the create-button in the upper task bar or the possibilities in the backlog view. First of all you have to choose a summary of a ticket (/the name of the ticket) and then you can create it. 
 ![JiraCreateEpic1](https://user-images.githubusercontent.com/86354671/202123925-1b82cd75-33e8-462a-ac08-0dec047e3043.jpg)
+
+There are two types of tickets views. The first one is the minimalized version if you select a ticket in the scrum-board or the backlog. If you click on the name of the ticket (here "DOC-1") the second view opens.
 ![JiraTicket1](https://user-images.githubusercontent.com/86354671/202122522-06d7c475-de20-4a5c-9340-d3b288e53dd9.jpg)
+
+The second possiblity to edit a ticket is the maximized view. In this example we will use it to show to different functionalities of the ticket.
+Under the summary of the ticket there are three main options of the tickets. 
+1. You can attach images that are relevant to the ticket.
+2. You can add child issues to represent subtasks of your main ticket.
+3. You can link other issues that are in some way connected to your ticket. The different relationships are:
+  - Blocks a ticket or is blocked
+  - Clones a ticket or is cloned
+  - Duplicates a ticket or is duplicated
+  - Relates to a ticket (in general)
+
+In additon to that details can be edited to. In this example we can assign a ticket to a team member, add labels or give a story point estimation (expense estimation). Other details that can be activated in the settings (like time tracking) can also be edited here.
 ![JiraTicket2](https://user-images.githubusercontent.com/86354671/202122526-771b8ac9-ef6a-4211-86cc-883953fc980e.jpg)
 
 
