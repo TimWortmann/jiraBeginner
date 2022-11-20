@@ -163,15 +163,26 @@ Under the summary of the ticket there are three main options of the tickets.
     - Duplicates a ticket or is duplicated
     - Relates to a ticket (in general)
 
-In additon to that details can be edited to. In this example we can assign a ticket to a team member, add labels or give a story point estimation (expense estimation). Other details that can be activated in the settings (like time tracking) can also be edited here.
+In additon to that details can be edited too. In this example we can assign a ticket to a team member, add labels or give a story point estimation (expense estimation). Other details that can be activated in the settings (like time tracking) can also be edited here.
 ![JiraTicket2](https://user-images.githubusercontent.com/86354671/202122526-771b8ac9-ef6a-4211-86cc-883953fc980e.jpg)
 
 
 ## 5. SCRUM Board
+The scrum board is the most important view in our software engineering based project. Here you can manage all of your current sprint tickets and see within a second the progess of your current sprint. 
+
+But before you can use the board you have to create a sprint in the backlog.
 ![JiraBoard1](https://user-images.githubusercontent.com/86354671/202123009-af1604f0-120f-4898-9c07-24cbf6cfd1b0.jpg)
+
+If a sprint is created all of your added tickets can be seen in to "To Do"-Column. 
 ![JiraBoard2](https://user-images.githubusercontent.com/86354671/202123011-901b66ac-cb90-46f6-a3c0-5f40aa64c75b.jpg)
+
+To adapt the view to your individual needs you can group it by assignee, epic, or subtask. In this example we will use the subtask view.
 ![JiraBoard3](https://user-images.githubusercontent.com/86354671/202123014-00feffae-806c-4ccd-8823-f9837c5b2cce.jpg)
+
+Now you can move all of your tickets between your workflow stages to represent their status. If the sprint is done you can complete the sprint. 
 ![JiraBoard4](https://user-images.githubusercontent.com/86354671/202123074-ef13b050-be8a-401f-a9c6-5c44d3f86187.jpg)
+
+Before you can complete the sprint you have to decide whether the remaining open tickets should be moved back to the backlog or to the next sprint 
 ![JiraBoard5](https://user-images.githubusercontent.com/86354671/202123004-d3219f8a-d717-4983-a86d-98a902ddb320.jpg)
 
 
